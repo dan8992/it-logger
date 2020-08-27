@@ -1,0 +1,32 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed issue on server01",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-05-31T16:18:04.245Z"
+    },
+    {
+      "message": "Restart the httpd service",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-08-27T08:26:53.742Z",
+      "id": 3
+    },
+    {
+      "message": "Move logs to the backup VM",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-08-27T08:27:12.680Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    }
+  ]
+}
